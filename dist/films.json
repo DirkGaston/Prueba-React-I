@@ -1,0 +1,308 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Letterboxd - Dirk Gastón",
+  "home_page_url": "https://letterboxd.com/dirkgaston/",
+  "description": "Letterboxd - Dirk Gastón",
+  "items": [
+    {
+      "guid": "letterboxd-watch-295311858",
+      "url": "https://letterboxd.com/dirkgaston/film/hollywood-90028/",
+      "title": "Hollywood 90028, 1973",
+      "imdbUrl": "https://www.imdb.com/title/tt0078728/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/9/7/6/5/9/197659-hollywood-90028-0-600-0-900-crop.jpg?v=cb71195a0a\"/></p> <p>Watched on Tuesday September 13, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/9/7/6/5/9/197659-hollywood-90028-0-600-0-900-crop.jpg?v=cb71195a0a\"/></p> <p>Watched on Tuesday September 13, 2022.</p>",
+      "date_published": "2022-09-13T11:54:34.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295311842",
+      "url": "https://letterboxd.com/dirkgaston/film/model-shop/2/",
+      "title": "Model Shop, 1969 - ★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0064679/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/2/6/1/8/72618-model-shop-0-600-0-900-crop.jpg?v=dbc5eec50c\"/></p> <p>Watched on Tuesday September 13, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/2/6/1/8/72618-model-shop-0-600-0-900-crop.jpg?v=dbc5eec50c\"/></p> <p>Watched on Tuesday September 13, 2022.</p>",
+      "date_published": "2022-09-13T11:54:25.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295073213",
+      "url": "https://letterboxd.com/dirkgaston/film/the-big-doll-house/",
+      "title": "The Big Doll House, 1971",
+      "imdbUrl": "https://www.imdb.com/title/tt0066830/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/5/6/6/22566-the-big-doll-house-0-600-0-900-crop.jpg?v=45b4b3746b\"/></p> <p>Watched on Monday September 12, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/5/6/6/22566-the-big-doll-house-0-600-0-900-crop.jpg?v=45b4b3746b\"/></p> <p>Watched on Monday September 12, 2022.</p>",
+      "date_published": "2022-09-12T12:20:36.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295073168",
+      "url": "https://letterboxd.com/dirkgaston/film/women-in-cages/",
+      "title": "Women in Cages, 1971",
+      "imdbUrl": "https://www.imdb.com/title/tt0067995/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/9/1/5/9/29159-women-in-cages-0-600-0-900-crop.jpg?v=1cb739070f\"/></p> <p>Watched on Monday September 12, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/9/1/5/9/29159-women-in-cages-0-600-0-900-crop.jpg?v=1cb739070f\"/></p> <p>Watched on Monday September 12, 2022.</p>",
+      "date_published": "2022-09-12T12:20:18.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295073141",
+      "url": "https://letterboxd.com/dirkgaston/film/the-iron-giant/1/",
+      "title": "The Iron Giant, 1999 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0129167/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/0/46280-the-iron-giant-0-600-0-900-crop.jpg?v=4684e40750\"/></p> <p>Watched on Sunday September 11, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/0/46280-the-iron-giant-0-600-0-900-crop.jpg?v=4684e40750\"/></p> <p>Watched on Sunday September 11, 2022.</p>",
+      "date_published": "2022-09-12T12:20:06.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295073111",
+      "url": "https://letterboxd.com/dirkgaston/film/new-nightmare/1/",
+      "title": "New Nightmare, 1994 - ★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0111686/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/1/5/4/45154-new-nightmare-0-600-0-900-crop.jpg?v=d99a19159d\"/></p> <p>Watched on Saturday September 10, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/1/5/4/45154-new-nightmare-0-600-0-900-crop.jpg?v=d99a19159d\"/></p> <p>Watched on Saturday September 10, 2022.</p>",
+      "date_published": "2022-09-12T12:19:53.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295073046",
+      "url": "https://letterboxd.com/dirkgaston/film/point-of-no-return/",
+      "title": "Point of No Return, 1993",
+      "imdbUrl": "https://www.imdb.com/title/tt0107843/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/1/7/1/46171-point-of-no-return-0-600-0-900-crop.jpg?v=a0fdc3fc7e\"/></p> <p>Watched on Friday September 9, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/1/7/1/46171-point-of-no-return-0-600-0-900-crop.jpg?v=a0fdc3fc7e\"/></p> <p>Watched on Friday September 9, 2022.</p>",
+      "date_published": "2022-09-12T12:19:22.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295072920",
+      "url": "https://letterboxd.com/dirkgaston/film/the-killer/",
+      "title": "The Killer, 1989",
+      "imdbUrl": "https://www.imdb.com/title/tt0097202/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/8/5/0/45850-the-killer-0-600-0-900-crop.jpg?v=d65baa059e\"/></p> <p>Watched on Friday September 9, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/8/5/0/45850-the-killer-0-600-0-900-crop.jpg?v=d65baa059e\"/></p> <p>Watched on Friday September 9, 2022.</p>",
+      "date_published": "2022-09-12T12:18:07.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-295072877",
+      "url": "https://letterboxd.com/dirkgaston/film/xanadu/",
+      "title": "Xanadu, 1980",
+      "imdbUrl": "https://www.imdb.com/title/tt0081777/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/2/0/0/42200-xanadu-0-600-0-900-crop.jpg?v=0f81019eee\"/></p> <p>Watched on Friday September 9, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/2/0/0/42200-xanadu-0-600-0-900-crop.jpg?v=0f81019eee\"/></p> <p>Watched on Friday September 9, 2022.</p>",
+      "date_published": "2022-09-12T12:17:45.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977431",
+      "url": "https://letterboxd.com/dirkgaston/film/the-nice-guys/3/",
+      "title": "The Nice Guys, 2016 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt3799694/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/1/6/3/0/1/216301-the-nice-guys-0-600-0-900-crop.jpg?v=40616daa2c\"/></p> <p>Watched on Tuesday September 6, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/1/6/3/0/1/216301-the-nice-guys-0-600-0-900-crop.jpg?v=40616daa2c\"/></p> <p>Watched on Tuesday September 6, 2022.</p>",
+      "date_published": "2022-09-08T17:17:15.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977416",
+      "url": "https://letterboxd.com/dirkgaston/film/drive-2011/2/",
+      "title": "Drive, 2011 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0780504/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28\"/></p> <p>Watched on Tuesday September 6, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28\"/></p> <p>Watched on Tuesday September 6, 2022.</p>",
+      "date_published": "2022-09-08T17:17:08.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977295",
+      "url": "https://letterboxd.com/dirkgaston/film/midnight-kiss/",
+      "title": "Midnight Kiss, 1993",
+      "imdbUrl": "https://www.imdb.com/title/tt0107571/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/2/3/1/7/382317-midnight-kiss-0-600-0-900-crop.jpg?v=d53c783c5a\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/2/3/1/7/382317-midnight-kiss-0-600-0-900-crop.jpg?v=d53c783c5a\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "date_published": "2022-09-08T17:16:23.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977277",
+      "url": "https://letterboxd.com/dirkgaston/film/the-toolbox-murders/",
+      "title": "The Toolbox Murders, 1978",
+      "imdbUrl": "https://www.imdb.com/title/tt0078405/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/4/4/7/1/34471-the-toolbox-murders-0-600-0-900-crop.jpg?v=d805730e96\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/4/4/7/1/34471-the-toolbox-murders-0-600-0-900-crop.jpg?v=d805730e96\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "date_published": "2022-09-08T17:16:17.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977265",
+      "url": "https://letterboxd.com/dirkgaston/film/retribution-1987/",
+      "title": "Retribution, 1987",
+      "imdbUrl": "https://www.imdb.com/title/tt0095984/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/8/7/5/7/68757-retribution-0-600-0-900-crop.jpg?v=a94052d9b7\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/8/7/5/7/68757-retribution-0-600-0-900-crop.jpg?v=a94052d9b7\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "date_published": "2022-09-08T17:16:11.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977238",
+      "url": "https://letterboxd.com/dirkgaston/film/spellbinder/",
+      "title": "Spellbinder, 1988",
+      "imdbUrl": "https://www.imdb.com/title/tt0096152/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/6/1/7/27617-spellbinder-0-600-0-900-crop.jpg?v=9d8de8f744\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/6/1/7/27617-spellbinder-0-600-0-900-crop.jpg?v=9d8de8f744\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "date_published": "2022-09-08T17:16:03.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-293977140",
+      "url": "https://letterboxd.com/dirkgaston/film/the-witchs-cat/",
+      "title": "The Witch's Cat, 1948",
+      "imdbUrl": "https://www.imdb.com/title/tt0153871/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/6/6/5/3/8/166538-the-witch-s-cat-0-600-0-900-crop.jpg?v=3aa717629c\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/6/6/5/3/8/166538-the-witch-s-cat-0-600-0-900-crop.jpg?v=3aa717629c\"/></p> <p>Watched on Monday September 5, 2022.</p>",
+      "date_published": "2022-09-08T17:15:27.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292869089",
+      "url": "https://letterboxd.com/dirkgaston/film/the-lord-of-the-rings-the-return-of-the-king/4/",
+      "title": "The Lord of the Rings: The Return of the King, 2003 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0167260/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "date_published": "2022-09-04T18:33:10.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292868961",
+      "url": "https://letterboxd.com/dirkgaston/film/the-lord-of-the-rings-the-two-towers/3/",
+      "title": "The Lord of the Rings: The Two Towers, 2002 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0167261/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "date_published": "2022-09-04T18:32:43.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292868929",
+      "url": "https://letterboxd.com/dirkgaston/film/the-lord-of-the-rings-the-fellowship-of-the-ring/5/",
+      "title": "The Lord of the Rings: The Fellowship of the Ring, 2001 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0120737/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "date_published": "2022-09-04T18:32:37.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292868899",
+      "url": "https://letterboxd.com/dirkgaston/film/adventures-in-babysitting/",
+      "title": "Adventures in Babysitting, 1987",
+      "imdbUrl": "https://www.imdb.com/title/tt0092513/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/1/4/7/43147-adventures-in-babysitting-0-600-0-900-crop.jpg?v=460d4e7e0c\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/1/4/7/43147-adventures-in-babysitting-0-600-0-900-crop.jpg?v=460d4e7e0c\"/></p> <p>Watched on Sunday September 4, 2022.</p>",
+      "date_published": "2022-09-04T18:32:31.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292508306",
+      "url": "https://letterboxd.com/dirkgaston/film/the-hobbit-the-battle-of-the-five-armies/1/",
+      "title": "The Hobbit: The Battle of the Five Armies, 2014 - ★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt2310332/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-600-0-900-crop.jpg?v=fcaa9a2943\"/></p> <p>Watched on Saturday September 3, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-600-0-900-crop.jpg?v=fcaa9a2943\"/></p> <p>Watched on Saturday September 3, 2022.</p>",
+      "date_published": "2022-09-03T16:35:09.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292354516",
+      "url": "https://letterboxd.com/dirkgaston/film/the-hobbit-the-desolation-of-smaug/3/",
+      "title": "The Hobbit: The Desolation of Smaug, 2013 - ★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt1170358/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/e0/ek/na/yb/gQCiuxGsfiXH1su6lp9n0nd0UeH-0-600-0-900-crop.jpg?v=00310e521d\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/e0/ek/na/yb/gQCiuxGsfiXH1su6lp9n0nd0UeH-0-600-0-900-crop.jpg?v=00310e521d\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "date_published": "2022-09-03T01:02:35.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292327859",
+      "url": "https://letterboxd.com/dirkgaston/film/the-hobbit-an-unexpected-journey/1/",
+      "title": "The Hobbit: An Unexpected Journey, 2012 - ★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0903624/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/s7/p6/sy/6v/mfSAahVkAIYFkx1GVFSlCEdn0mt-0-600-0-900-crop.jpg?v=282e4f2260\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/s7/p6/sy/6v/mfSAahVkAIYFkx1GVFSlCEdn0mt-0-600-0-900-crop.jpg?v=282e4f2260\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "date_published": "2022-09-02T22:59:15.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292216509",
+      "url": "https://letterboxd.com/dirkgaston/film/pulp-fiction/10/",
+      "title": "Pulp Fiction, 1994 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt0110912/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "date_published": "2022-09-02T13:13:25.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    },
+    {
+      "guid": "letterboxd-watch-292216443",
+      "url": "https://letterboxd.com/dirkgaston/film/once-upon-a-time-in-hollywood/6/",
+      "title": "Once Upon a Time… in Hollywood, 2019 - ★★★★★",
+      "imdbUrl": "https://www.imdb.com/title/tt7131622/",
+      "content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "summary": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854\"/></p> <p>Watched on Friday September 2, 2022.</p>",
+      "date_published": "2022-09-02T13:12:56.000Z",
+      "author": {
+        "name": "Dirk Gastón"
+      }
+    }
+  ]
+}
