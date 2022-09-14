@@ -1,0 +1,86 @@
+{
+  "books": [
+    {
+      "Title": "Everything Is Cinema: The Working Life of Jean-Luc Godard",
+      "Author": "Richard Brody",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922224i/312239.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/312239.Everything_Is_Cinema"
+    },
+    {
+      "Title": "Cine de terror contemporáneo",
+      "Author": "Pedro Berruezo",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360199811i/17338362.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/17338362-cine-de-terror-contempor-neo"
+
+    },
+    {
+      "Title": "High-Rise",
+      "Author": "J. G. Ballard",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358752559i/12331767.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/12331767-high-rise"
+
+    },
+    {
+      "Title": "Killing Floor",
+      "Author": "Lee Child",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535850646i/9421418.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/9421418-killing-floor"
+
+    },
+    {
+      "Title": "The Gospel of Filth: A Bible of Decadence & Darkness",
+      "Author": "Gavin Baddeley & Dani Filth",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1168791570i/37063.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/37063.The_Gospel_of_Filth"
+
+    },
+    {
+      "Title": "Infinite Jest",
+      "Author": "David Foster Wallace",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446876799i/6759.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/6759.Infinite_Jest"
+
+    },
+    {
+      "Title": "House of Leaves",
+      "Author": "Mark Z. Danielewski",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403889034i/24800.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/24800.House_of_Leaves"
+
+    },
+    {
+      "Title": "Dracula",
+      "Author": "Bram Stoker",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/17245.Dracula"
+
+    },
+    {
+      "Title": "The Town and the City",
+      "Author": "Jack Kerouac",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339111720i/154392.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/154392.The_Town_and_the_City"
+
+    },
+    {
+      "Title": "The Unlimited Dream-Company",
+      "Author": "J. G. Ballard",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361148557i/16234589.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/16234589-the-unlimited-dream-company?ref=nav_sb_ss_1_23"
+
+    },
+    {
+      "Title": "Dr. Bloodmoney",
+      "Author": "Philip K. Dick",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355321708i/636108.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/636108.Dr_Bloodmoney?ref=nav_sb_ss_1_11"
+    },
+    {
+      "Title": "Storm Front",
+      "Author": "Jim Butcher",
+      "imgSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572991273i/47212.jpg",
+      "infoLink": "https://www.goodreads.com/book/show/47212.Storm_Front?ref=nav_sb_ss_1_11"
+
+    }
+  ]
+}

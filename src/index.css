@@ -3,6 +3,12 @@ html {
 }
 
 body {
+  background: rgba(0, 0, 0, 0.5) url(./img/background5.jpg);
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -10,8 +16,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ccc;
-  background: rgba(0, 0, 0, 0.5) url(./img/background4.jpg);
-  background-blend-mode: darken;
 }
 
 code {
@@ -48,7 +52,7 @@ h1 {
 .cardContainer {
   display: flex;
   flex-direction: row;
-  width: 98vw;
+  width: 93vw;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
@@ -71,9 +75,147 @@ h1 {
 
 .galleryFooter {
   font-family: "NewRocker";
-  font-size: 50px;
+  font-size: 25px;
   -webkit-text-stroke: 1px black;
+  width: 99vw;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+#musicNav {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  font-family: "NewRocker";
+  font-size: 50px;
   width: 98vw;
+}
+
+#musicNav h4 {
+  margin: 25px;
+}
+
+#musicNav h4:hover {
+  color: #e4141e;
+}
+
+.homeContainer {
+  margin-top: 110px;
+  height: 83vh;
+}
+
+.homeContainer h1 {
+  font-size: 50px;
+  margin: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 98vw;
+}
+
+.homeContainer h2 {
+  font-family: "NewRocker";
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.homeContainer img {
+  display: inline !important;
+}
+
+.tracksContainer {
+  display: flex;
+  justify-content: center;
+  margin-block: 50px;
+}
+
+.trackList {
+  width: 40vw;
+  background: rgba(90, 90, 90, 0.9);
+  border-radius: 25px;
+  padding-bottom: 25px;
+  padding-inline: 25px;
+}
+
+.movieContainer {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bookContainer {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.musicContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pageDesc {
+  background: rgba(90, 90, 90, 0.9);
+  width: 50%;
+  border-radius: 25px;
+  font-family: "NewRocker";
+  font-size: 35px;
+  padding: 25px;
+  margin-block: 25px;
+}
+
+.searchBarContainer {
+  width: 95vw;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.searchBarContainer label {
+  font-family: "NewRocker";
+  font-size: 25px;
+  margin-right: 25px;
+}
+.searchBar {
+  border: 0;
+  padding: 7px 15px;
+  border: 1px solid #ccc;
+  position: relative;
+  background: transparent;
+  color: black;
+}
+
+.sortBtnContainer {
+  margin: 25px;
+}
+
+.sortBtn {
+  background: #881400;
+  border-bottom: 6px inset rgba(0, 0, 0, 0.5);
+  border-left: 6px inset rgba(0, 0, 0, 0.5);
+  border-right: 6px inset rgba(255, 255, 255, 0.5);
+  border-top: 6px inset rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "NewRocker";
+  font-size: 20px;
+  margin: 1rem;
+  min-width: 200px;
+  padding: 0.5rem;
+  width: auto;
+}
+
+.sortBtn:focus,
+.sortBtn:hover {
+  background: #a81000;
 }
 
 @tailwind base;
