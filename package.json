@@ -1,6 +1,7 @@
 {
   "name": "prueba-react-i",
   "private": true,
+  "homepage": "https://dirkgaston.github.io/prueba-react-i/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
