@@ -12,7 +12,7 @@ function App() {
       <div className="App">
         <Header title="Dirk Gastón" />
         <Routes>
-          <Route exact path="/prueba-react-I" element={<Home />}></Route>
+          <Route exact path="/" element={<Home />}></Route>
           <Route path="/musica" element={<Music />}></Route>
           <Route path="/cine" element={<Movies />}></Route>
           <Route path="/libros" element={<Books />}></Route>
