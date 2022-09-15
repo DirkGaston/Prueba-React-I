@@ -8,7 +8,7 @@ import Books from "./pages/Books";
 
 function App() {
   return (
-    <BrowserRouter basename="/prueba-react-I">
+    <BrowserRouter>
       <div className="App">
         <Header title="Dirk Gastón" />
         <Routes>
