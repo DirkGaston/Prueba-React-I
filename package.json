@@ -1,8 +1,7 @@
 {
-  "name": "prueba-react-i",
+  "name": "prueba_react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dirkgaston.github.io/prueba-react-I",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
