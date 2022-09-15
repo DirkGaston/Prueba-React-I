@@ -8,14 +8,14 @@ import Books from "./pages/Books";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/prueba-react-I">
       <div className="App">
         <Header title="Dirk Gastón" />
         <Routes>
-          <Route path="/prueba-react-I" element={<Home />}></Route>
-          <Route path="/prueba-react-I/musica" element={<Music />}></Route>
-          <Route path="/prueba-react-I/cine" element={<Movies />}></Route>
-          <Route path="/prueba-react-I/libros" element={<Books />}></Route>
+          <Route exact path="/prueba-react-I" element={<Home />}></Route>
+          <Route path="/musica" element={<Music />}></Route>
+          <Route path="/cine" element={<Movies />}></Route>
+          <Route path="/libros" element={<Books />}></Route>
         </Routes>
         <Footer galleryInfo="© Dirk Gastón 2022" />
       </div>

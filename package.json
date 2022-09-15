@@ -2,10 +2,11 @@
   "name": "prueba-react-i",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dirkgaston.github.io/prueba-react-I",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "set GENERATE_SOURCEMAP=false && vite build",
     "preview": "vite preview"
