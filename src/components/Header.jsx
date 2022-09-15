@@ -42,7 +42,7 @@ const Header = ({ title }) => {
           <ul className="flex flex-col p-4 mt-4 rounded-lg border border-gray-100 md:flex-row md:space-x-8 md:mt-0 md:border-0 dark:border-gray-700 menuItems">
             <li>
               <a
-                href="/prueba-react-I/musica"
+                href="/musica"
                 className="block py-2 pr-4 pl-3 hover:text-white active:text-white"
                 aria-current="page"
               >
@@ -51,7 +51,7 @@ const Header = ({ title }) => {
             </li>
             <li>
               <a
-                href="/prueba-react-I/cine"
+                href="/cine"
                 className="block py-2 pr-4 pl-3 hover:text-white active:text-white"
               >
                 Veo Películas 🎥
@@ -59,7 +59,7 @@ const Header = ({ title }) => {
             </li>
             <li>
               <a
-                href="/prueba-react-I/libros"
+                href="/libros"
                 className="block py-2 pr-4 pl-3 hover:text-white active:text-white"
               >
                 Leo Libros 📚
