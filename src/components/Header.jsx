@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { NavLink } from "react-router-dom";
 import MenuItems from "./MenuItems";
 const Header = ({ title }) => {
   const [active, setActive] = useState(false);
@@ -10,11 +11,11 @@ const Header = ({ title }) => {
   return (
     <nav className="bg-black fixed w-full z-20 top-0 border-gray-200 px-2 sm:px-4 py-3 rounded dark:bg-gray-900">
       <div className="container flex flex-wrap justify-between items-center mx-10">
-        <a href="/prueba-react-I/">
+        <NavLink to="">
           <span className="mr-3 self-center whitespace-nowrap dark:text-white galleryTitle">
             {title}
           </span>
-        </a>
+        </NavLink>
         <button
           data-collapse-toggle="navbar-default"
           type="button"
@@ -41,29 +42,29 @@ const Header = ({ title }) => {
         <div className="hidden w-full md:block md:w-auto" id="navbar-default">
           <ul className="flex flex-col p-4 mt-4 rounded-lg border border-gray-100 md:flex-row md:space-x-8 md:mt-0 md:border-0 dark:border-gray-700 menuItems">
             <li>
-              <a
-                href="/musica"
+              <NavLink
+                to="/musica"
                 className="block py-2 pr-4 pl-3 hover:text-white active:text-white"
                 aria-current="page"
               >
                 Escucho Música 🎼
-              </a>
+              </NavLink>
             </li>
             <li>
-              <a
-                href="/cine"
+              <NavLink
+                to="/cine"
                 className="block py-2 pr-4 pl-3 hover:text-white active:text-white"
               >
                 Veo Películas 🎥
-              </a>
+              </NavLink>
             </li>
             <li>
-              <a
-                href="/libros"
+              <NavLink
+                to="/libros"
                 className="block py-2 pr-4 pl-3 hover:text-white active:text-white"
               >
                 Leo Libros 📚
-              </a>
+              </NavLink>
             </li>
           </ul>
           <MenuItems showMenu={showMenu} active={active} />
